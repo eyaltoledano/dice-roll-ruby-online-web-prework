@@ -4,6 +4,6 @@
 
 def roll
   # code goes here
-  def number = random(6)
+  def number = 1 + random(6)
   number
 end
