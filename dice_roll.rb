@@ -4,4 +4,6 @@
 
 def roll
   # code goes here
+  def number = (1..6)
+  number
 end
